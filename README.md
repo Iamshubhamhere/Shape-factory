@@ -2,4 +2,4 @@
 
 ## Welcome 
 
-Click [here](https://iamshubhamhere.github.io/Digital-clock/) to enter into the shape factory .
+Click [here](https://iamshubhamhere.github.io/Shape-factory/) to enter into the shape factory .
